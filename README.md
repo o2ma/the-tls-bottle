@@ -3,10 +3,11 @@ A simple example how to make bottle python work with TLS encryption on ubuntu 16
 
 Ingredients:
 1. Ubuntu 16
-2. make-ready.sh script
-3. tls-server.py script
-4. Internet connection
-5. Firefox
+2. Python 2.7
+3. make-ready.sh script
+4. tls-server.py script
+5. Internet connection
+6. Firefox
 
 Recipe:
 1. Start your ubuntu
