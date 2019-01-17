@@ -19,7 +19,7 @@ Recipe:
 8. Enjoy !
 
 
-Let me know how was it in the comments !
+Let me know how was it !
 
 Credits:
 https://stackoverflow.com/questions/41568185/how-to-implement-tls-ssl-for-python-bottle-using-gevent
